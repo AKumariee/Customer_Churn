@@ -1,5 +1,5 @@
-# -Customer Churn Analytics Dashboard in Power BI- 
-Problem Statement
+# $\color{red}{\Customer Churn Analytics Dashboard in Power BIf{lorem ipsum}}$
+
 ## Analyzing Customer Churn for a Telecom Company
 ---------------------------------------------------
 *Churn:* Rate of customers stop doing business with an entity
