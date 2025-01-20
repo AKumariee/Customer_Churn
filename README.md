@@ -1,6 +1,6 @@
-# Customer_Churn
-##Problem Statement
-Analyzing Customer Churn for a Telecom Company
+# -Customer_Churn
+Problem Statement
+## Analyzing Customer Churn for a Telecom Company
 ---------------------------------------------------
 *Churn:* Rate of customers stop doing business with an entity
 *Churn rate = Number of churned customers / total number of customers*
