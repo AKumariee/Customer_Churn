@@ -1,6 +1,6 @@
-# $\color{lightgreen}{\textsf{Customer Churn Analytics Dashboard in Power BI}}$
+# $\color{lightgreen}{\textsf{Customer Churn Dashboard}}$
 
-## $\color{lightblue}{\textsf{Analyzing Customer Churn for a Telecom Company}}$
+## $\color{lightblue}{\textsf{Analyzing Customer Churn and Creating Power BI Dashboard for a Telecom Company}}$
 ---------------------------------------------------
 *Churn:* Rate of customers stop doing business with an entity
 *Churn rate = Number of churned customers / total number of customers*
