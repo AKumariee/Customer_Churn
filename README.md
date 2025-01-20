@@ -1,4 +1,4 @@
-# $\color{red}{\Customer Churn Analytics Dashboard in Power BIf{lorem ipsum}}$
+# $\color{red}{\textsf{Customer Churn Analytics Dashboard in Power BI}}$
 
 ## Analyzing Customer Churn for a Telecom Company
 ---------------------------------------------------
