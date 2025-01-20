@@ -49,7 +49,6 @@ Senior Citizen Churn more often and their churn rate is 38.46%
 Age group 21-25 has highest number of customers that are using the service of company.
 
 **Snap of dashboard 3: Churn based on International Calls & Unlimited Plans**
-
 <img width="559" alt="Calls_ _Plans" src="https://github.com/user-attachments/assets/b883830e-0f2e-4cb7-84fc-e6284345d7b8" />
 
 
@@ -65,8 +64,7 @@ People who have international plan but they are not active churning more. For th
 
 Number of Customers for paper check payment method is very less than that of direct debit or credit card.
 
-
-**Snap of dashboard 4: Contract Type & Payment Method**
+**Snap of dashboard 5: Contract Type & Payment Method**
 <img width="560" alt="Customer_Service" src="https://github.com/user-attachments/assets/7b9347fa-6595-4f18-841c-453ebf77a9e2" />
 
 
