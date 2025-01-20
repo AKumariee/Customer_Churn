@@ -1,4 +1,4 @@
-# -Customer_Churn
+# -Customer Churn Analytics Dashboard in Power BI- 
 Problem Statement
 ## Analyzing Customer Churn for a Telecom Company
 ---------------------------------------------------
